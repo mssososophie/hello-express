@@ -1,0 +1,27 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Week 9 servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mssososophie/hello-express.git"
+  },
+  "author": "Sophie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mssososophie/hello-express/issues"
+  },
+  "homepage": "https://github.com/mssososophie/hello-express#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
